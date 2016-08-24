@@ -1,4 +1,3 @@
-layout_spectrum: 0.12651165388524532
 typography_spectrum: 0.2537183607928455
 color:
   brandStrength: 0.3880004114471376
@@ -6,9 +5,11 @@ color:
   saturation: 0.07720307796262205
   rhythmicContrast: 0.9336863029748201
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#0096DB'
+    - '#FFFFFF'
+    - '#006293'
+    - '#70C2E9'
+    - '#6E6E6C'
+layout_spectrum: 0.12651165388524532
 name: FTZ Studios
+title: leW
