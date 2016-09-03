@@ -12,4 +12,8 @@ color:
     - '#6E6E6C'
 layout_spectrum: 0.12651165388524532
 name: FTZ Studios
+navigation:
+  - name: Our Website
+    url: 'http://www.ftzstudios.co.uk/'
+    type: external
 title: Welcome
